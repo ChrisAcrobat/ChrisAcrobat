@@ -1,16 +1,20 @@
-### Hi there 👋
-
-<!--
-// TODO:
-Introduce me.
--->
-
+# Hi there 👋
+[![linkedin badge](https://img.shields.io/badge/Christoffer_Olofsson-LinkedIn?color=blue&&logo=linkedin)](https://www.linkedin.com/in/christofferolofsson/)
 ![Profile views](https://komarev.com/ghpvc/?username=ChrisAcrobat)
+
+```json
+{
+	"pronouns": "👨‍💻",
+	"working on": "a prototype for AI tournaments (https://github.com/AI-Tournaments)",
+	"education": "University West Computer Engineering, '11",
+	"location": "Trollhättan, Sweden",
+	"tabs or spaces?": "	"
+}
+```
 
 [![ChrisAcrobat's github stats](https://github-readme-stats.vercel.app/api?username=ChrisAcrobat&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
-// TODO:
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
