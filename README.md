@@ -12,7 +12,9 @@
 }
 ```
 
-[![ChrisAcrobat's github stats](https://github-readme-stats.vercel.app/api?username=ChrisAcrobat&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![ChrisAcrobat's github stats](https://github-readme-stats.vercel.app/api?username=ChrisAcrobat&count_private=true&show_icons=true)](github-readme-stats.vercel.app)
+
+[![ChrisAcrobat's most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=ChrisAcrobat&show_icons=true&layout=compact)](github-readme-stats.vercel.app)
 
 <!--
 - 🔭 I’m currently working on ...
