@@ -11,7 +11,11 @@
 	"tabs or spaces?": "	"
 }
 ```
-
+<!--
+TODO:
+<img width="800" height="220" src="https://streak-stats.demolab.com?user=ChrisAcrobat&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
+<p align="center">
+-->
 [![ChrisAcrobat's github stats](https://github-readme-stats.vercel.app/api?username=ChrisAcrobat&count_private=true&show_icons=true)](github-readme-stats.vercel.app)
 
 [![ChrisAcrobat's most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=ChrisAcrobat&show_icons=true&layout=compact)](github-readme-stats.vercel.app)
