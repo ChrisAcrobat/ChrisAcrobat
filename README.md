@@ -5,7 +5,7 @@
 ```json
 {
 	"pronouns": "👨‍💻",
-	"working on": "a prototype for AI tournaments (https://github.com/AI-Tournaments)",
+	"working on": "a prototype for Algorithmic Games (https://algorithmic.games/)",
 	"education": "University West Computer Engineering, '11",
 	"location": "Trollhättan, Sweden",
 	"tabs or spaces?": "	"
